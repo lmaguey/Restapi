@@ -1,0 +1,14 @@
+mx\com\gm\dao\RecompensasDao.class
+mx\com\gm\domain\Recompensas.class
+mx\com\gm\dao\UsuariosDao.class
+mx\com\gm\servicios\UsuarioServiceImpl.class
+mx\com\gm\domain\Usuarios.class
+mx\com\gm\dao\PuntosDao.class
+mx\com\gm\domain\Puntos.class
+mx\com\gm\servicios\PuntosService.class
+mx\com\gm\HolamundoSpringApplication.class
+mx\com\gm\servicios\PuntosServiceImpl.class
+mx\com\gm\servicios\RecompensasService.class
+mx\com\gm\servicios\UsuarioService.class
+mx\com\gm\servicios\RecompensasServiceImpl.class
+mx\com\gm\web\ControladorInicio.class
